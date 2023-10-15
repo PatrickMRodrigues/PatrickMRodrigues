@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ...Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pr.patrickmrodrigues@gmail.com
+- ✨ Linkdin ...www.linkedin.com/in/patrick-rodrigues-695929245
+
 
 <!---
 PatrickMRodrigues/PatrickMRodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
