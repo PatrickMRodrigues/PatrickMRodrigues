@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatrickMRodrigues
-- 👀 I’m interested in ...Tecnologia e Erp de gestão
-- 🌱 I’m currently learning ...Python 
+- 👀 I’m interested in ...Tecnologia e Desenvolvimento de Sistemas
+- 🌱 I’m currently learning ...Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pr.patrickmrodrigues@gmail.com
 - ✨ Linkdin ...www.linkedin.com/in/patrick-rodrigues-695929245
